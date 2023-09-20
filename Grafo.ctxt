@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Grafo
+comment0.text=\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ Grafo\ aqui.\n\ \n\ @nicole\ \n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\n
+comment1.params=V
+comment1.target=Grafo(int)
+comment1.text=\n\ Construtor\ para\ objetos\ da\ classe\ Grafo\n\ Constr\u00F3i\ um\ grafo\ de\ tamanho\ maximo\ V\ x\ V\n\ \n
+comment2.params=origem\ destino
+comment2.target=void\ addAresta(int,\ int)
+comment2.text=\n\ permite\ que\ o\ usuario\ defina\ as\ arestas\ do\ grafo\n\ sem\ permitir\ que\ haja\ uma\ conex\u00E3o\ entre\ a\ origem\ e\ o\ destino\ se\ eles\ forem\ iguais\n\ \n\ \ \n
+comment3.params=w1\ w2
+comment3.target=boolean\ Vizinhos(int,\ int)
+comment3.text=\ \n\ verifica\ se\ os\ v\u00E9rtices\ recebidos\ possuem\ uma\ aresta\ conectando\ eles,\n\ ou\ seja,\ se\ s\u00E3o\ vizinhos\n
+comment4.params=w
+comment4.target=java.util.List\ getVizinhos(int)
+comment4.text=\n\ retorna\ uma\ lista\ com\ os\ IDs\ de\ todos\ os\ vizinhos\ de\ um\ dado\ v\u00E9rtice\ w\n\ \n
+comment5.params=i
+comment5.target=void\ imprimeVizinhos(int)
+comment5.text=\n\ imprime\ os\ vizinhos\ de\ um\ dado\ v\u00E9rtice\n\n
+comment6.params=matrizAdj
+comment6.target=void\ imprimeMatriz(int)
+comment6.text=\n\ Imprime\ a\ matriz\ adjacente\n
+numComments=7
